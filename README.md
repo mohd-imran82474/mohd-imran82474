@@ -68,10 +68,8 @@ A personal web project created while learning web development.
 
 **Built with:** HTML · CSS · JavaScript
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Now-2EA44F?style=for-the-badge)](YOUR_IMRAN_WEB_HUB_LIVE_URL)
-
-[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](YOUR_IMRAN_WEB_HUB_REPOSITORY_URL)
-
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Now-2EA44F?style=for-the-badge)](https://mohd-imran82474.github.io/imran-web-hub-2/)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohd-imran82474/imran-web-hub-2)
 </td>
 </tr>
 </table>
