@@ -1,72 +1,95 @@
-# Hey, I'm Imran 👋
+# 👋 Hey, I'm Imran Mohammed
 
-### Python Developer in Progress | Backend Development | Flask
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+Development+Enthusiast;Building+Real-World+Projects;Learning+Something+New+Every+Day" alt="Typing animation" />
+</p>
 
-I'm a first-year engineering student learning software development by building real-world projects.
+<p align="center">
+  <a href="https://github.com/mohd-imran82474">
+    <img src="https://img.shields.io/badge/GitHub-mohd--imran82474-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Backend-Development-0A7B83?style=for-the-badge" alt="Backend Development" />
+</p>
 
+---
+
+## 🚀 About Me
+
+- 🎓 First-year engineering student
 - 🐍 Learning Python and backend development
-- 🌐 Building websites using HTML, CSS, and JavaScript
-- ⚙️ Exploring Flask, REST APIs, and databases
-- 🚀 Improving my skills through hands-on projects
+- ⚙️ Exploring Flask, REST APIs and databases
+- 💻 Learning by building practical projects
+- 🎯 Working towards my first software development internship
+
+> **My goal:** Turn what I learn into projects that solve real problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,vscode&perline=5" alt="Technologies and tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 1. Boost Boyz Automotive
-A car service booking website with a Flask backend and an admin dashboard.
+### 🚗 Boost Boyz Automotive
 
-- [🌐 Live Website](https://boost-boyz-automotive.onrender.com)
-- [💻 View Source Code](https://github.com/mohd-imran82474/boost-boyz-automotive)
+A car-service booking website with a Flask backend, booking storage and an admin dashboard.
 
-### 2. Imran Web Hub
-A personal web project built while learning web development.
+- 🌐 [Live Website](https://boost-boyz-automotive.onrender.com)
+- 💻 [Source Code](https://github.com/mohd-imran82474/boost-boyz-automotive)
 
-- [💻 Explore My GitHub Repositories](https://github.com/mohd-imran82474?tab=repositories)
+### 🌐 Imran Web Hub
 
----
+A personal web project built while practising web development.
 
-## 🎯 Current Goals
-
-- Strengthen Python and Flask fundamentals
-- Learn SQL, REST APIs, and backend development
-- Build useful projects and improve problem-solving
-- Prepare for internship opportunities
+- 💻 [Explore My Repositories](https://github.com/mohd-imran82474?tab=repositories)
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Overview
 
-- GitHub: [@mohd-imran82474](https://github.com/mohd-imran82474)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohd-imran82474&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-imran82474&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohd-imran82474&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation" />
+</p>
 
 ---
 
-*Learning every day. Building step by step.
+## 🎯 Currently Working On
 
-<!--
-**mohd-imran82474/mohd-imran82474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Strengthening Python fundamentals
+- Learning Flask step by step
+- Understanding SQL and REST APIs
+- Improving Git and GitHub skills
+- Building projects for my developer portfolio
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/mohd-imran82474">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>🚀 Learning. Building. Improving. One step at a time.</i>
+</p>
