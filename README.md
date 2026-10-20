@@ -1,95 +1,114 @@
 # 👋 Hey, I'm Imran Mohammed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+Development+Enthusiast;Building+Real-World+Projects;Learning+Something+New+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+Development+Learner;Building+Real+World+Projects;Learning+and+Growing+Every+Day" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohd-imran82474">
-    <img src="https://img.shields.io/badge/GitHub-mohd--imran82474-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Backend-Development-0A7B83?style=for-the-badge" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=mohd-imran82474&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ## 🚀 About Me
 
-- 🎓 First-year engineering student
-- 🐍 Learning Python and backend development
-- ⚙️ Exploring Flask, REST APIs and databases
-- 💻 Learning by building practical projects
-- 🎯 Working towards my first software development internship
+🎓 First-year engineering student
 
-> **My goal:** Turn what I learn into projects that solve real problems.
+🐍 Learning Python and Flask
 
----
+⚙️ Exploring APIs and databases
 
-## 🛠️ Tech Stack
+💻 Building practical projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,vscode&perline=5" alt="Technologies and tools" />
-</p>
+🎯 Preparing for software internships
+
+**My mission:** Learn by building, improve every day, and become a skilled backend developer.
+
+</td>
+<td width="42%" valign="top">
+
+## 🧰 My Toolkit
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,vscode&perline=3" alt="My technology stack" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚗 Boost Boyz Automotive
 
-A car-service booking website with a Flask backend, booking storage and an admin dashboard.
+A car-service booking website with a Flask backend, booking database and admin dashboard.
 
-- 🌐 [Live Website](https://boost-boyz-automotive.onrender.com)
-- 💻 [Source Code](https://github.com/mohd-imran82474/boost-boyz-automotive)
+**Built with:** Python · Flask · SQLite · HTML
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Now-2EA44F?style=for-the-badge)](https://boost-boyz-automotive.onrender.com)
+
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohd-imran82474/boost-boyz-automotive)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Imran Web Hub
 
-A personal web project built while practising web development.
+A personal web project created while learning web development.
 
-- 💻 [Explore My Repositories](https://github.com/mohd-imran82474?tab=repositories)
+**Built with:** HTML · CSS · JavaScript
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Now-2EA44F?style=for-the-badge)](YOUR_IMRAN_WEB_HUB_LIVE_URL)
+
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github)](YOUR_IMRAN_WEB_HUB_REPOSITORY_URL)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohd-imran82474&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-imran82474&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohd-imran82474&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-imran82474&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
-## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohd-imran82474&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation" />
-</p>
-
 ---
 
-## 🎯 Currently Working On
+## 🎯 What I'm Working On
 
 - Strengthening Python fundamentals
 - Learning Flask step by step
 - Understanding SQL and REST APIs
-- Improving Git and GitHub skills
-- Building projects for my developer portfolio
+- Building useful projects
+- Improving problem-solving skills
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/mohd-imran82474">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-  <i>🚀 Learning. Building. Improving. One step at a time.</i>
+  <i>💡 Learn. Build. Improve. Repeat. 🚀</i>
 </p>
